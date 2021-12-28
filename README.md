@@ -16,7 +16,7 @@ A RESTful API with a single endpoint that retrieves data from the given MongoDB 
 ## Installation
 Clone repository
 ```
-$ git clone https://github.com/ozivarol/Getir-case
+$ git clone https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-oguzhan-varol
 ```
 Install dependencies
 ```

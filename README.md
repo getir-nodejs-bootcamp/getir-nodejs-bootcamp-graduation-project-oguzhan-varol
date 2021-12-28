@@ -20,7 +20,7 @@ $ git clone https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-gradu
 ```
 Install dependencies
 ```
-cd Getir-case
+cd getir-nodejs-bootcamp-graduation-project-oguzhan-varol
 
 npm install
 ```
